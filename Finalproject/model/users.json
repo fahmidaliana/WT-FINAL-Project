@@ -1,0 +1,14 @@
+[
+    {
+        "email":"liana@gmail.com","password":"123","fname":"Fahmida","lname":"Liana","dob":"26/08/1998","phone":"01487653472","id":"202201","weddate":"05/09/2023","bill":"85214","budget":"90000","flower":"rose","colour":"white and red","music":"k-pop","food":"Korean cuisine"
+    },
+    {
+        "email":"zaeem1111@gmail.com","password":"234","fname":"Fayaaz","lname":"Zaeem","dob":"24/08/2012","phone":"01488655472","id":"202202","weddate":"05/09/2023","bill":"75208","budget":"80000","flower":"Lily","colour":"green","music":"none","food":"Bangladeshi cuisine"
+    },
+    {
+        "email":"lisha@gmail.com","password":"456","fname":"Farhana","lname":"Lisha","dob":"05/07/1992","phone":"01458932175","id":"202203","weddate":"10/12/2024","bill":"50142","budget":"70000","flower":"Lilac","colour":"violet","music":"tradisional","food":"Western cuisine"
+    },
+    {
+        "email":"ziyad@gmail.com","password":"678","fname":"Aryan","lname":"Ziyad","dob":"18/10/2001","phone":"01802147853","id":"202204","weddate":"26/02/2024","bill":"95482","budget":"10000","flower":"orchid","colour":"white","music":"Hindi","food":"Danish cuisine"
+    }
+]
