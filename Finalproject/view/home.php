@@ -86,6 +86,14 @@
 
 <div class="nav">
 
+  <a href="../view/search.php">Search Customer Info</a>
+
+</div>
+
+<br><br>
+
+<div class="nav">
+
   <a href="../view/profile.php">My profile</a>
 
 </div>

@@ -34,7 +34,6 @@
 
             <tr>
                 <th>Custormer id</th>
-                <th>Email</th>
                 <th>First name</th>
                 <th>Last name</th>                
                 <th>Phone number</th>               
@@ -60,9 +59,9 @@
                 <td align="center"><?php echo $row["LastName"]; ?></td>
                 <td align="center"><?php echo $row["PhoneNumber"]; ?></td>
                 <td align="center"><?php echo $row["Bill"]; ?> TK</td>
-                <?php
-                 $x=$x+$row["Bill"];
-                ?>
+                <!--<?php
+                 $x = $x+$row["Bill"];
+                ?>-->
                
 
             </tr>

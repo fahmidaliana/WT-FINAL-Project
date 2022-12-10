@@ -33,9 +33,7 @@ if(isset($_POST['submit']) && isset($_FILES['image']))
                 }
 
                 else
-                {
-                    /* $em="file type wrong";
-            header("Location:../view/updateprofile.php?error=$em"); */
+                {              
                 $_SESSION['type_error_msg'] = "File type not sutable";
 			    $isValid = false;
                 header("Location:../view/updateprofile.php");
@@ -45,8 +43,6 @@ if(isset($_POST['submit']) && isset($_FILES['image']))
     
         else
         {
-             /* $em="sorry too big";
-            header("Location:../view/updateprofile.php?error=$em"); */
             $_SESSION['size_error_msg'] = "File size is too large";
             header("Location:../view/updateprofile.php");
 			$isValid = false;

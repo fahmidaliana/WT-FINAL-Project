@@ -156,4 +156,5 @@ include('../model/DB.php');
 		$data = htmlspecialchars($data);
 		return $data;
 	}
+	
 ?>
